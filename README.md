@@ -8,6 +8,6 @@ Features
 
 (To be added)
 
-	* Lists traffic by local ip
-	* Graph traffic
-	* Show allowance "worm"
+* Lists traffic by local ip
+* Graph traffic
+* Show allowance "worm"
